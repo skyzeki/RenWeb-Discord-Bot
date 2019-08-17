@@ -6,4 +6,13 @@ This Discord bot displays the current homework of the week, as well as the upcom
 Please pull requests and merge the to master after you know it is correct.
 The bot reads renweb from html files, so upload them directly to the repository.
 
+## Latest updates
+This bot is still in beta, so don't expext every feature to be flawless.
+Currently at version 1.0
+
+## Credits
+Thanks to some of my friends who are helping this project. 
+Mastercomfig for giving me a template.
+And discord, for their branding.
+
 Thanks for using this Discord bot!
