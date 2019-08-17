@@ -1,5 +1,5 @@
 # RenWeb Discord Bot
-https://discord.gg/renweb
+https://discord.io/renweb
 
 A renweb discord bot.
 This Discord bot displays the current homework of the week, as well as the u[coming lesson plans.
